@@ -17,7 +17,7 @@ Calc (10236, 01abc) corresponds to the permutation taking fibers of types I_2, I
 Calc (63201, cba10) corresponds to the inverse chart of the same threefold
 
 -- Type III:\
-Calc (X(N), X(N))_k corresponds to the k-th basis 3-form on self-fiber product of the modular surface over X_1(N);\
+Calc (X(N), X(N))_k corresponds to the k-th basis 3-form on the self-fiber product of the modular surface over X_1(N);\
 Calc (X(N), X(N))_k inv corresponds to the inverse chart of the same threefold with the same 3-form
 
 2. The document "Final Period Calculations" contains the second half of the calculation, obtaining the modules of periods from the partial periods between pairs of singular fibers. The Workbook file names follow the same convention, except that the two charts are not considered separately and that in the case of X(10) all 3-forms were extracted from the same computation done for a generic 3-form.
